@@ -23,6 +23,6 @@
                 document.write("Simple Interest: ", ans);
                 
             </script>
-        </div>
+        </fieldset>
     </body>
 </html>
