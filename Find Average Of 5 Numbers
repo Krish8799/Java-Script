@@ -25,6 +25,6 @@
                 document.write("Answer Of Find Average Of 5 Numbers: ",ans);
 
             </script>
-        </div>
+        </fieldset>
     </body>
 </html>
