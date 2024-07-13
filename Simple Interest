@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            fieldset{
+                font-size: 20px;
+                border: 4px Solid black;
+                font-weight: 700;
+            }
+        </style>
+    </head>
+
+    <body align="center">
+        <fieldset>
+            <legend>Simple Interest</legend>
+            <script>
+
+                p = 3;
+                r = 5;
+                t = 7;
+                n = 100;
+                ans = p*r*t/n;
+                document.write("Simple Interest: ", ans);
+                
+            </script>
+        </div>
+    </body>
+</html>
