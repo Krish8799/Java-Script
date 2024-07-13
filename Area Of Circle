@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            fieldset{
+                font-size: 20px;
+                border: 4px Solid black;
+                font-weight: 700;
+            }
+        </style>
+    </head>
+
+    <body align="center">
+        <fieldset>
+            <legend>Area Of Circle</legend>
+            <script>
+
+                const pi = 3.14;
+                radius = 7;
+                ans = pi*radius*radius;
+                document.write("Area Of Circle: ",ans);
+
+            </script>
+        </fieldset>
+    </body>
+</html>
