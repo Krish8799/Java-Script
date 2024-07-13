@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            fieldset{
+                font-size: 20px;
+                border: 4px Solid black;
+                font-weight: 700;
+            }
+        </style>
+    </head>
+
+    <body align="center">
+        <fieldset>
+            <legend>Area Of Square</legend>
+            <script>
+
+                length = 7;
+                length = 5;
+                ans = length*length;
+                document.write("Area Of Square: ",ans);
+
+            </script>
+        </fieldset>
+    </body>
+</html>
