@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            fieldset{
+                font-size: 20px;
+                border: 4px Solid black;
+                font-weight: 700;
+            }
+        </style>
+    </head>
+
+    <body align="center">
+        <fieldset>
+            <legend>Find Average Of 5 Numbers</legend>
+            <script>
+
+                n1 = 2;
+                n2 = 3;
+                n3 = 4;
+                n4 = 7;
+                n5 = 9;
+                n = 5;
+                ans = n1+n2+n3+n4+n5/5;
+                document.write("Answer Of Find Average Of 5 Numbers: ",ans);
+
+            </script>
+        </div>
+    </body>
+</html>
