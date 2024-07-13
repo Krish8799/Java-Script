@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            #one{
+                font-size: 20px;
+                border: 4px Solid darkgray;
+                color: maroon;
+                font-weight: 700;
+                margin-bottom: 200px;
+            }
+
+            #two{
+                font-size: 20px;
+                border: 4px Solid royalblue;
+                font-weight: 700;
+                color: deeppink;
+            }
+        </style>
+    </head>
+
+    <body align="center">
+        <fieldset id="one">
+            <legend>Numbers Square Roots</legend>
+            <script>
+
+                n1 = 987;
+                ans = n1*n1;
+                document.write("Ans Of Three Numbers Square Roots: ", ans);
+
+                
+            </script>
+        </fieldset>
+    </body>
+
+    <body align="center">
+        <fieldset id="two">
+            <legend>Numbers Square Roots</legend>
+            <script>
+
+                n1 = 987;
+                ans = n1*n1*n1;
+                document.write("Ans Of Three Numbers: ", ans);
+          
+            </script>
+        </fieldset>
+    </body>
+</html>
