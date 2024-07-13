@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            fieldset{
+                font-size: 20px;
+                border: 4px Solid black;
+                font-weight: 700;
+            }
+        </style>
+    </head>
+
+    <body align="center">
+        <fieldset>
+            <legend>Multiplication Of Three Values</legend>
+            <script>
+
+                var A = 7;
+                var B = 7;
+                var C = 7
+                Ans = A*B*C;
+                document.write("A Is : " + A);
+                document.write("<br> B Is : " + B);
+                document.write("<br> B Is : " + C);
+                document.write("<br> Ans Is : " + Ans);
+
+            </script>
+        </fieldset>
+    </body>
+</html>
