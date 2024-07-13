@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            fieldset{
+                font-size: 20px;
+                border: 4px Solid black;
+                font-weight: 700;
+            }
+        </style>
+    </head>
+
+    <body align="center">
+        <fieldset>
+            <legend>Area Of Rectangle</legend>
+            <script>
+            
+                length = 7;
+                breath = 7;
+                Ans = length*breath;
+                document.write("Answer Of Area Of Rectangle: ",Ans);
+                
+            </script>
+        </fieldset>
+    </body>
+</html>
